@@ -1,19 +1,19 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="./assets/hero-light.svg">
-  <img alt="PFxamd — Designer & developer focused on custom websites, digital tools and interactive systems." src="./assets/hero-dark.svg" width="100%">
+  <img alt="PFxamd" src="./assets/hero-dark.svg" width="100%">
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/field-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/field-light.svg">
-  <img alt="PFxamd focus" src="./assets/field-dark.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/focus-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/focus-light.svg">
+  <img alt="PFxamd focus" src="./assets/focus-dark.svg" width="100%">
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/system-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/system-light.svg">
-  <img alt="PFxamd technology system" src="./assets/system-dark.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/stack-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/stack-light.svg">
+  <img alt="PFxamd stack" src="./assets/stack-dark.svg" width="100%">
 </picture>
 
 <picture>
