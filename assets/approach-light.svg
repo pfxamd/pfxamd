@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300">
+<rect width="100%" height="100%" fill="#f4f1ea"/>
+<defs>
+  <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+    <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#e4e0d7" stroke-width="1"/>
+  </pattern>
+  <style>
+    .sans{font-family:Arial,Helvetica,sans-serif}
+    .mono{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace}
+  </style>
+</defs>
+<rect x="28" y="28" width="1144" height="244" fill="none" stroke="#c8c4bb"/>
+<text x="52" y="66" class="mono" font-size="14" fill="#d60013" letter-spacing="2">03 / APPROACH</text>
+<text x="52" y="118" class="mono" font-size="13" fill="#686b70" letter-spacing="2">DESIGN</text>
+<text x="258" y="118" class="mono" font-size="13" fill="#686b70" letter-spacing="2">CODE</text>
+<text x="446" y="118" class="mono" font-size="13" fill="#686b70" letter-spacing="2">STRUCTURE</text>
+<text x="724" y="118" class="mono" font-size="13" fill="#686b70" letter-spacing="2">MAINTAINABILITY</text>
+<line x1="52" y1="140" x2="1148" y2="140" stroke="#c8c4bb"/>
+<text x="52" y="198" class="sans" font-size="36" font-weight="800" fill="#111214">Design and code as one system.</text>
+<text x="52" y="236" class="sans" font-size="20" fill="#111214">Clear structure, custom interfaces and long-term maintainability.</text>
+<rect x="1076" y="168" width="72" height="72" fill="#d60013"/>
+<text x="1112" y="212" text-anchor="middle" class="mono" font-size="15" font-weight="700" fill="#fff">PFX</text>
+<text x="1148" y="258" text-anchor="end" class="mono" font-size="12" fill="#686b70" letter-spacing="1.2">DESIGN / DEVELOPMENT / SYSTEMS</text>
+</svg>
