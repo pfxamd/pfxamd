@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300">
+<rect width="100%" height="100%" fill="#0b0d10"/>
+<defs>
+  <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+    <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#171b20" stroke-width="1"/>
+  </pattern>
+  <style>
+    .sans{font-family:Arial,Helvetica,sans-serif}
+    .mono{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace}
+  </style>
+</defs>
+<rect x="28" y="28" width="1144" height="244" fill="none" stroke="#2a2f36"/>
+<text x="52" y="66" class="mono" font-size="14" fill="#ff0014" letter-spacing="2">01 / FIELD</text>
+<text x="52" y="132" class="sans" font-size="46" font-weight="800" fill="#f4f4f2" letter-spacing="-1">CUSTOM WEB</text>
+<text x="52" y="176" class="sans" font-size="46" font-weight="800" fill="#f4f4f2" letter-spacing="-1">DESIGN + DEVELOPMENT</text>
+<line x1="620" y1="52" x2="620" y2="248" stroke="#2a2f36"/>
+<text x="654" y="86" class="mono" font-size="13" fill="#8b9199" letter-spacing="1.8">SCOPE</text>
+<text x="654" y="126" class="sans" font-size="24" font-weight="700" fill="#f4f4f2">Digital tools</text>
+<text x="654" y="164" class="sans" font-size="24" font-weight="700" fill="#f4f4f2">Interactive systems</text>
+<text x="654" y="202" class="sans" font-size="24" font-weight="700" fill="#f4f4f2">Interface design</text>
+<rect x="1086" y="52" width="58" height="58" fill="#ff0014"/>
+<text x="1115" y="89" text-anchor="middle" class="mono" font-size="17" font-weight="700" fill="#fff">PFX</text>
+<line x1="654" y1="226" x2="1144" y2="226" stroke="#2a2f36"/>
+<text x="1144" y="248" text-anchor="end" class="mono" font-size="12" fill="#8b9199" letter-spacing="1.3">BUILT CUSTOM / NO TEMPLATE</text>
+</svg>
