@@ -1,7 +1,4 @@
-<a href="https://www.pfxamd.com/" target="_blank" rel="noopener noreferrer"><picture>
-  <source media="(prefers-color-scheme: light)" srcset="./assets/editorial-light.svg">
-  <img src="./assets/editorial-dark.svg" width="100%" alt="PFxamd — Designer + Developer. Custom websites, digital tools and interactive systems.">
-</picture></a>
+<a href="https://www.pfxamd.com/" target="_blank" rel="noopener noreferrer"><img src="./assets/editorial-dark.svg" width="100%" alt="PFxamd — Designer + Developer. Custom websites, digital tools and interactive systems."></a>
 
 ## Selected tools
 
