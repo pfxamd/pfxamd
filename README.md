@@ -1,7 +1,5 @@
-<a href="https://pfxamd.com"><picture>
-  <source media="(prefers-color-scheme: light)" srcset="./assets/editorial-light.svg">
-  <img src="./assets/editorial-dark.svg" width="100%" alt="PFxamd — Designer + Developer. Custom websites, digital tools and interactive systems.">
-</picture></a>
+[![PFxamd — Designer + Developer](./assets/editorial-dark.svg#gh-dark-mode-only)](https://www.pfxamd.com/)
+[![PFxamd — Designer + Developer](./assets/editorial-light.svg#gh-light-mode-only)](https://www.pfxamd.com/)
 
 ## Selected tools
 
